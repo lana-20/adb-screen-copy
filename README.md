@@ -1,4 +1,4 @@
-# [Scrcpy](github.com/Genymobile/scrcpy)
+# [Scrcpy](https://github.com/Genymobile/scrcpy)
 
 There is a handy open source tool called Screen Copy. 
 It’s useful when we connect our device over the local network and we can copy its screen to our device. 
