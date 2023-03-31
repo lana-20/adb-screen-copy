@@ -2,7 +2,7 @@
 
 There is a handy open source tool called Screen Copy. 
 It’s useful when we connect our device over the local network and we can copy its screen to our device. 
-It works similar to Visor, this is a free alternative. It can also be very useful for demo purposes which we use a lot. 
+It works similar to Vysor, this is a free alternative. It can also be very useful for demo purposes which we use a lot. 
 If we screencast a demo, we just copy the screen of the device to a machine on which we have Microsoft Teams enabled on. 
 So we just show the device screen via MS Teams or Skype.
 
